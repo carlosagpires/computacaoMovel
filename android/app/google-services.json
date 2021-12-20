@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "527404085709",
+    "project_id": "mimessaging-92b1d",
+    "storage_bucket": "mimessaging-92b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527404085709:android:5b597e0b3e34abb597d484",
+        "android_client_info": {
+          "package_name": "pt.estgp.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527404085709-bqpkbeotr94hbgcb42o6vk0lqc080tum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx9LppXObtDgU8jXoG1_duGSGh7sMjOok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527404085709-bqpkbeotr94hbgcb42o6vk0lqc080tum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527404085709:android:b410bfdcd6056eaf97d484",
+        "android_client_info": {
+          "package_name": "pt.estgp.mi_messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527404085709-bqpkbeotr94hbgcb42o6vk0lqc080tum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx9LppXObtDgU8jXoG1_duGSGh7sMjOok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527404085709-bqpkbeotr94hbgcb42o6vk0lqc080tum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
